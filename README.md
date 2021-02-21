@@ -14,6 +14,12 @@ After finding the solution, we then use the eigenfunction to verify that the con
 
 ---
 
+### Source:
+
+*Partial Differential Equations for Engineers*, by Stanley E. Jones, Sameer Mulani, and Katherine Klose, The University of Alabama. 
+
+---
+
 <center> 
 
 #### For more information about me, check out my website by clicking on the logo!
