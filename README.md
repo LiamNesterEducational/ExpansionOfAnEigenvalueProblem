@@ -4,16 +4,9 @@
 
 In this walk-through, we describe the solution of the following differential equation:
 
-<center>
-
-[<img src="./GoverningEquations.png" width="200">]()
-
-
-<!-- y^{\prime\prime} + 4y^{\prime} + \lambda y \\ -->
-<!-- y(0) = 0, y(2) + \frac{1}{2} y^{\prime}(2) = 0 -->
-
-
-</center>
+<p align="center">
+  <img width="200" src="./GoverningEquations.png"  >
+</p>
 
 After finding the solution, we then use the eigenfunction to verify that the convergence of the series expansion across the interval, by truncating the series to 10, 25, and 50 terms and evaluating the resulting mathematical expression, converges to f(x) = 1, as shown in the plot below.
 
@@ -24,8 +17,6 @@ After finding the solution, we then use the eigenfunction to verify that the con
 <center> 
 
 #### For more information about me, check out my website by clicking on the logo!
-
-<!-- [<img src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/) -->
 
 <p align="center">
   <a href="https://liamnester.github.io/" </a> <img width="100" src="./LiamNesterLogo.png"  >
