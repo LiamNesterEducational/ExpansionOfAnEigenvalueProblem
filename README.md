@@ -25,4 +25,8 @@ After finding the solution, we then use the eigenfunction to verify that the con
 
 #### For more information about me, check out my website by clicking on the logo!
 
-[<img src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/)
+<!-- [<img src="./LiamNesterLogo.png" width="100">](https://liamnester.github.io/) -->
+
+<p align="center">
+  <a href="https://liamnester.github.io/" </a> <img width="100" src="./LiamNesterLogo.png"  >
+</p>
