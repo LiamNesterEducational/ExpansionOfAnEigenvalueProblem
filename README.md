@@ -6,14 +6,16 @@ In this walk-through, we describe the solution of the following differential equ
 
 <center>
 
-$
-y^{\prime\prime} + 4y^{\prime} + \lambda y \\
-y(0) = 0, y(2) + \frac{1}{2} y^{\prime}(2) = 0
-$
+[<img src="./GoverningEquations.png" width="200">]()
+
+
+<!-- y^{\prime\prime} + 4y^{\prime} + \lambda y \\ -->
+<!-- y(0) = 0, y(2) + \frac{1}{2} y^{\prime}(2) = 0 -->
+
 
 </center>
 
-After finding the solution, we then use the eigenfunction to verify that the convergence of the series expansion across the interval, by truncating the series to 10, 25, and 50 terms and evaluating the resulting mathematical expression, converges to $f(x) = 1$, as shown in the plot below.
+After finding the solution, we then use the eigenfunction to verify that the convergence of the series expansion across the interval, by truncating the series to 10, 25, and 50 terms and evaluating the resulting mathematical expression, converges to f(x) = 1, as shown in the plot below.
 
 [<img src="./Plot.png" width="1000">]()
 
