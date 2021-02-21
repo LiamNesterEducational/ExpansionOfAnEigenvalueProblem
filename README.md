@@ -6,8 +6,10 @@ In this walk-through, we describe the solution of the following differential equ
 
 <center>
 
-$ y^{\prime\prime} + 4y^{\prime} + \lambda y  $
-$ y(0) = 0, y(2) + \frac{1}{2} y^{\prime}(2) = 0 $
+$
+y^{\prime\prime} + 4y^{\prime} + \lambda y \\
+y(0) = 0, y(2) + \frac{1}{2} y^{\prime}(2) = 0
+$
 
 </center>
 
